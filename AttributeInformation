@@ -20,6 +20,8 @@ ATA = Atypical Angina
 NAP = Non-Anginal Pain
 ASY = Asymptomatic
 
+FastingBS(fasting blood sugar) binary variable:  1 = if FastingBS > 120 mg/dl, 0 = otherwise 
+
 resting ECG result = The resting ECG can detect certain heart conditions such as hypertrophy of heart, ischemia, myocardial infarction, sequelae of myocardial infarction, cardiac arrhythmias, etc.
 -Left ventricular hypertrophy (LVH) is a thickening of the wall of the heart's main pumping chamber. 
 -ST Sinus tachycardia refers to a faster-than-usual heart rhythm. Your heart has a natural pacemaker called the sinus node,
