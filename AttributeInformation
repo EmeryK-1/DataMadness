@@ -9,6 +9,25 @@ Attribute Information:
       -- 7. resting electrocardiographic results  (values 0,1,2) 
       -- 8. maximum heart rate achieved  
       -- 9. exercise induced angina    
-      -- 10. oldpeak = ST depression induced by exercise relative to rest   
+      -- 10. oldpeak = ST depression induced by exercise relative to rest 
       -- 11. the slope of the peak exercise ST segment     
       -- 12. has heart disease (values 0,1)
+#
+resting ECG result= The resting ECG can detect certain heart conditions such as hypertrophy of heart, ischemia, myocardial infarction, sequelae of myocardial infarction, cardiac arrhythmias, etc.
+An electrocardiogram (ECG) test measures the electrical activity of the heart. A normal resting heart rate is 60 to 100 beats per minute.
+
+max heart reat = the max healthy limit is 185-200(depending on age) during exercise
+
+exercise induced angina = Angina is a type of chest pain caused by reduced blood flow to the heart. Angina is a symptom of coronary artery disease.
+
+oldpeak = ( ST-segment depression is believed as a common ECG sign of myocardial ischemia during exercise testing. 
+Ischemia is a condition in which the blood flow (and thus oxygen) is restricted or reduced in a part of the body. 
+Cardiac ischemia is the name for decreased blood flow and oxygen to the heart muscle.
+st tepression = ST depression represents myocardial ischemia or an emergent condition
+
+the slope of the peak exercise ST segment = ST segment shift relative to exercise-induced increments in heart rate, the ST/heart rate slope (ST/HR slope),
+has been proposed as a more accurate ECG criterion for diagnosing significant coronary artery disease (CAD).
+The leads facing the injured cardiac muscle cells will record the action potential as ST elevation during systole while during diastole. 
+ST segment elevation is regarded as a sign of myocardial ischemia.
+
+#
